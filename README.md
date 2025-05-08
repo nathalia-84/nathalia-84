@@ -31,7 +31,6 @@ Tenho experiência prática com desenvolvimento web (frontend e backend), análi
 
 - 💌 Email: nathaliaazmelo@gmail.com  
 - 🧑‍💼 [LinkedIn](www.linkedin.com/in/melo-nathalia) 
-- 👨‍💻 [GitHub](https://github.com/nathalia-84)  
 
 ---
 
