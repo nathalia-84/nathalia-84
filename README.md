@@ -18,12 +18,13 @@ Tenho experiência prática com desenvolvimento web (frontend e backend), análi
 
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
-| [Plataforma de Alfabetização](https://github.com/nathalia-84/app-abc) | App educacional com React + TypeScript para apoiar o processo de alfabetização. | React, TypeScript |
+| [API de Gestão de Mercados](https://github.com/nathalia-84/SistemaMercado) | API REST para pedidos e produtos. | Spring Boot, Spring Security, MySQL |
+| [Gerenciador de Tarefas](https://github.com/nathalia-84/todo-app) | App de tarefas com Spring MVC e HTMX. | Spring, Java Template Engine, HTMX, Bootstrap, MySQL |
+| [Backend Instabytes](https://github.com/nathalia-84/backend-instabytes) | Serviço de Postagem de Imagens com integração à Google Gemini API | Node.js, API Google Gemini, MongoDB |
 | [Sistema de Gestão Imobiliária](https://github.com/Luiz-gustavo-da-silva/SIGILP2) | Aplicativo desktop para gerenciar imóveis. | Java, Swing |
-| [API de Gestão de Mercados](https://github.com/nathalia-84/SistemaMercado) | API REST para pedidos e produtos. | Spring Boot |
-| [Serviço de Postagem com Descrições](https://github.com/nathalia-84/backend-instabytes) | Backend com geração de descrições automáticas via API Google Gemini. | Node.js |
+| [API My Places](https://github.com/nathalia-84/my-places/) | API REST para cadastro e consulta de locais favoritos | Java, Spring Boot, PostgreSQL, Docker Compose
 | [PetDex - DevHat](https://github.com/devhatt/pet-dex-frontend) | Catálogo de adoção de pets com UI responsiva. | HTML, CSS, Javascript |
-| [Gerenciador de Tarefas](https://github.com/nathalia-84/todo-app) | App de tarefas com Spring MVC e HTMX. | Spring, HTMX, Bootstrap |
+| [Plataforma de Alfabetização](https://github.com/nathalia-84/app-abc) | App educacional com React + TypeScript para apoiar o processo de alfabetização. | React, TypeScript |
 
 ---
 
