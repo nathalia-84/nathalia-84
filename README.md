@@ -1,53 +1,75 @@
-# 👩‍💻 Nathalia Azevedo de Melo
+# 💜 Olá, eu sou Nathalia!
+<p align="left">
+  Desenvolvedora Web em formação, com experiência em <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong> e <strong>Spring Boot</strong>. <br>
+  Com vivência como Scrum Master, sou apaixonada por metodologias ágeis e por construir soluções de software eficientes e escaláveis.
+</p>
 
-🎓 Estudante de Bacharelado em Tecnologia da Informação | UFRN  
-💡 Apaixonada por desenvolvimento web, mobile e engenharia de software  
-🚀 Explorando Java, Spring Boot e React
+## Sobre mim
 
----
-
-## 🌱 Sobre Mim
-
-Sou uma Engenharia de Software em formação com forte interesse em criar soluções tecnológicas que gerem impacto real. 
-
-Tenho experiência prática com desenvolvimento web (frontend e backend), análise de requisitos e metodologias ágeis, além de muita vontade de aprender e contribuir com times colaborativos e inovadores.
-
----
-
-## 📂 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|-------------|
-| [API de Gestão de Mercados](https://github.com/nathalia-84/SistemaMercado) | API REST para pedidos e produtos. | Spring Boot, Spring Security, MySQL |
-| [Gerenciador de Tarefas](https://github.com/nathalia-84/todo-app) | App de tarefas com Spring MVC e HTMX. | Spring, Java Template Engine, HTMX, Bootstrap, MySQL |
-| [Backend Instabytes](https://github.com/nathalia-84/backend-instabytes) | Serviço de Postagem de Imagens com integração à Google Gemini API | Node.js, API Google Gemini, MongoDB |
-| [Sistema de Gestão Imobiliária](https://github.com/Luiz-gustavo-da-silva/SIGILP2) | Aplicativo desktop para gerenciar imóveis. | Java, Swing |
-| [API My Places](https://github.com/nathalia-84/my-places/) | API REST para cadastro e consulta de locais favoritos | Java, Spring Boot, PostgreSQL, Docker Compose
-| [PetDex - DevHat](https://github.com/devhatt/pet-dex-frontend) | Catálogo de adoção de pets com UI responsiva. | HTML, CSS, Javascript |
-| [Plataforma de Alfabetização](https://github.com/nathalia-84/app-abc) | App educacional com React + TypeScript para apoiar o processo de alfabetização. | React, TypeScript |
+- 🎓 Graduanda em Tecnologia da Informação na UFRN (2021 - 2027.1)
+- 🖥️ Técnica em Desenvolvimento Web pela UFRN (2020)
+- 🚀 Foco em desenvolvimento Full Stack, combinando o ecossistema JavaScript com a robustez do Java.
+- 💡 Experiência como Scrum Master, facilitando cerimônias e apoiando times ágeis.
+- 💬 Inglês avançado, com experiência de colaboração em times internacionais.
 
 ---
+<br>
 
-## 📫 Onde me encontrar
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nathalia-84/nathalia-84/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nathalia-84/nathalia-84/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nathalia-84/nathalia-84/output/pacman-contribution-graph.svg">
+</picture>
 
-- 💌 Email: nathaliaazmelo@gmail.com  
-- 🧑‍💼 [LinkedIn](www.linkedin.com/in/melo-nathalia) 
-
+###
 ---
 
-✨ Obrigada por visitar meu perfil! Estou sempre aberta a conexões, feedbacks e novas oportunidades para aprender.
+## ⭐ GitHub Stats
+<div align="center">
+  <a href="https://github.com/nathalia-84">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalia-84&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalia-84&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
 
-<!--
-**nathalia-84/nathalia-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tecnologias e Ferramentas 💻
 
-Here are some ideas to get you started:
+### 🚀 Linguagens & Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jest)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Backend & Banco de Dados
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,postgres,mysql,mongodb)](https://skillicons.dev)
+
+### ⚙️ Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,postman,figma)](https://skillicons.dev)
+
+<br>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left">
+  Sou formada como <strong>Técnica em Desenvolvimento Web</strong> e atualmente curso <strong>Bacharelado em Tecnologia da Informação</strong> na UFRN. Minha jornada tem sido focada em criar aplicações completas, utilizando <strong>React, Next.js e TypeScript</strong> no frontend para construir interfaces modernas e responsivas. <br><br>
+  No backend, tenho sólida experiência com <strong>Java e Spring Boot</strong> para desenvolver APIs RESTful seguras e eficientes. Além disso, possuo conhecimento em <strong>bancos de dados SQL e NoSQL</strong>, e utilizo <strong>Docker</strong> para criar ambientes de desenvolvimento consistentes. <br><br>
+  Acredito que a combinação de habilidades técnicas e uma mentalidade ágil é a chave para entregar valor de forma contínua. 🚀
+</p>
+
+<p align="left">
+  Vamos nos conectar? Ficarei feliz em trocar ideias e experiências! 💌✨
+</p>
+
+<p align="left">
+  <a href="mailto:nathaliaazmelo@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/nathalia-melo/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nathalia-84.nathalia-84&left_color=darkviolet&right_color=orchid" width="100" />
+</div>
+
+<div align="center">
+  
+  [![Nathalia Melo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nathalia-84&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+  <img src="https://streak-stats.demolab.com?user=nathalia-84&locale=pt-br&mode=weekly&theme=omni&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="156" alt="streak graph"  /> <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=nathalia-84&theme=omni&column=2&row=1&margin-w=5&margin-h=1&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
+</div>
