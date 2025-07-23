@@ -1,8 +1,7 @@
 # 💜 Olá, eu sou Nathalia!
 <p align="left">
-  Desenvolvedora Web em formação, com experiência em <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong> e <strong>Spring Boot</strong>. <br>
-  Com vivência como Scrum Master, sou apaixonada por metodologias ágeis e por construir soluções de software eficientes e escaláveis.
-</p>
+  Desenvolvedora Web em formação, com experiência em <strong>
+Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong> e <strong>Spring Boot</strong>. 
 
 ## Sobre mim
 
