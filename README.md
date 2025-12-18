@@ -1,15 +1,11 @@
 # 💜 Olá, eu sou Nathalia!
 <p align="left">
-  Desenvolvedora Web em formação, com experiência em <strong>
-Python</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong> e <strong>Spring Boot</strong>. 
+  Desenvolvedora Web em formação, com experiência em <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong> e <strong>Spring Boot</strong>. 
 
 ## Sobre mim
 
 - 🎓 Graduanda em Tecnologia da Informação na UFRN (2021 - 2027.1)
 - 🖥️ Técnica em Desenvolvimento Web pela UFRN (2020)
-- 🚀 Foco em desenvolvimento Full Stack, combinando o ecossistema JavaScript com a robustez do Java.
-- 💡 Experiência como Scrum Master, facilitando cerimônias e apoiando times ágeis.
-- 💬 Inglês avançado, com experiência de colaboração em times internacionais.
 
 ---
 <br>
