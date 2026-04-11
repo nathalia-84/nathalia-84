@@ -1,11 +1,16 @@
-# 💜 Olá, eu sou Nathalia!
+# 💜 Hi, I'm Nathalia!
+
 <p align="left">
-  Desenvolvedora Web em formação, com experiência em <strong>JavaScript</strong>, <strong>React</strong>, <strong>Next.js</strong>, <strong>Java</strong> e <strong>Spring Boot</strong>. 
+  Software Engineer focused on <strong>NestJS</strong>, <strong>Next.js</strong>, and <strong>Flutter</strong>. Currently balancing professional development with academic research.
+</p>
 
-## Sobre mim
+## About me
 
-- 🎓 Graduanda em Tecnologia da Informação na UFRN (2021 - 2027.1)
-- 🖥️ Técnica em Desenvolvimento Web pela UFRN (2020)
+- 🎓 Undergraduate Student in Information Technology at UFRN (2021 - 2026)
+- 🔬 Academic research scholar
+- 📚 Enthusiast of fiction and history books
+- 🗣️ Learning new languages
+- 🏃‍♀️ Running practitioner
 
 ---
 <br>
@@ -16,31 +21,30 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nathalia-84/nathalia-84/output/pacman-contribution-graph.svg">
 </picture>
 
-###
 ---
 
-## Tecnologias e Ferramentas 💻
+## Tech Stack & Tools 💻
 
-### 🚀 Linguagens & Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,jest)](https://skillicons.dev)
+### 🚀 Frontend & Mobile
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,flutter,tailwind,jest)](https://skillicons.dev)
 
-### 🛠️ Backend & Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,python,postgres,mysql,mongodb)](https://skillicons.dev)
+### 🛠️ Backend & Infrastructure
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,postgres,mongodb,docker,linux)](https://skillicons.dev)
 
-### ⚙️ Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=git,github,linux,docker,postman,figma)](https://skillicons.dev)
+### ⚙️ Tools & Design
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman,figma)](https://skillicons.dev)
 
 <br>
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left">
-  Sou formada como <strong>Técnica em Desenvolvimento Web</strong> e atualmente curso <strong>Bacharelado em Tecnologia da Informação</strong> na UFRN. Minha jornada tem sido focada em criar aplicações completas, utilizando <strong>React, Next.js e TypeScript</strong> no frontend para construir interfaces modernas e responsivas. <br><br>
-  No backend, tenho sólida experiência com <strong>Java e Spring Boot</strong> para desenvolver APIs RESTful seguras e eficientes. Além disso, possuo conhecimento em <strong>bancos de dados SQL e NoSQL</strong>, e utilizo <strong>Docker</strong> para criar ambientes de desenvolvimento consistentes. <br><br>
-  Acredito que a combinação de habilidades técnicas e uma mentalidade ágil é a chave para entregar valor de forma contínua. 🚀
+  My current technical focus is on the <strong>TypeScript</strong> ecosystem, developing scalable applications with <strong>NestJS</strong> for the backend and high-performance interfaces with <strong>Next.js</strong>. <br><br>
+  I also work on mobile development using <strong>Flutter</strong> and maintain a strong theoretical foundation through my degree and research at UFRN. I aim to apply technical rigor and critical thinking to every project, prioritizing clean code and consistent architectures. <br><br>
+  Outside of programming, I dedicate my time to reading fiction and history, studying new languages, and running.
 </p>
 
 <p align="left">
-  Vamos nos conectar? Ficarei feliz em trocar ideias e experiências! 💌✨
+  <strong>Connect with me:</strong>
 </p>
 
 <p align="left">
@@ -53,8 +57,3 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nathalia-84.nathalia-84&left_color=darkviolet&right_color=orchid" width="100" />
 </div>
-
-<div align="center">
-  
-  [![Nathalia Melo's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nathalia-84&bg_color=0d1117&color=c535d0&line=d1056c&point=d1056c&area=true&area_color=d1056c&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
