@@ -6,7 +6,7 @@
 
 ## About me
 
-- 🎓 B.S. in Information Technology Graduate (UFRN)
+- 🎓 B.S. in Information Technology (UFRN)
 - 🗣️ Advanced in English and Spanish
 - 💡 Experienced in Agile methodologies, systems architecture, and AI integrations
 - 🏃‍♀️ Hobbies include reading, practicing sports, and studying languages
